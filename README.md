@@ -6,7 +6,7 @@ Built with web technologies such as **HTML**, **CSS**, **JavaScript**, **Bootstr
 ---
 
 ## 📸 Screenshot 
-![Screenshot](assets/img/ScreenShot.jpg)
+![Screenshot](assets/img/ScreenShot.png)
 
 ## 🌐 Live Demo
 
