@@ -83,7 +83,7 @@
                     </div>
                     <div class="col-lg-5">
                         <div class="home-image">
-                            <img src="assets/img/bg1.png" title="" alt="" style="width: 100%;-webkit-transform: scaleX(-1); transform: scaleX(-1);margin-top: -112px;">
+                            <img src="assets/img/bg1.png" title="" alt="" style="width: 100%;-webkit-transform: scaleX(-1); transform: scaleX(-1);">
                         </div>
                     </div>
                 </div>

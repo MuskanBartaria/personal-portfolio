@@ -428,6 +428,8 @@ main {
   .home-section .home-image svg image {
     width: 100%; }
 
+
+
 .home-section .home-intro h6 {
   font-weight: 600;
   text-transform: uppercase;
@@ -828,6 +830,8 @@ main {
   position: relative;
   z-index: 1;
   padding: 7px; }
+
+
   .home-section-02 .home-image:after {
     content: "";
     position: absolute;
