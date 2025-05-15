@@ -11,4 +11,4 @@ Built with web technologies such as **HTML**, **CSS**, **JavaScript**, **Bootstr
 ## 🌐 Live Demo
 
 Check out the live version of this portfolio web application here:  
-[My Portfolio Website](http://muskanbartaria.infinityfreeapp.com/)
+[My Portfolio Website](https://muskanbartaria.github.io/personal-portfolio/)
