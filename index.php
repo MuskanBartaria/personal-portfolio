@@ -104,7 +104,11 @@
                                 <a class="github" href="https://github.com/MuskanBartaria" target="_blank"><i class="fab fa-github"></i></a>
                                 <a class="envelope" href="mailto:muskanbartaria1997@gmail.com" target="_blank"><i class="fa fa-envelope"></i></a>
                                 <a class="linkedin" href="https://www.linkedin.com/in/muskan-bartaria-072852168" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+<<<<<<< HEAD
                                 <a class="whatsapp" href="https://wa.me/0000000000" target="_blank"><i class="fab fa-whatsapp"></i></a>
+=======
+                                <a class="whatsapp" href="https://wa.me/9999999999" target="_blank"><i class="fab fa-whatsapp"></i></a>
+>>>>>>> d40331920749695a977e11b26507df97283d1a14
                             </div>
                         </div>
                     </div>
